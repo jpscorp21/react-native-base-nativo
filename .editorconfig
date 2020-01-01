@@ -1,0 +1,19 @@
+root = true
+
+insert_final_newline = true
+
+charset = utf-8
+
+
+[**.js]
+indent_style = tab
+indent_size = 2
+
+spaces_around_brackets = inside
+
+[**.js]
+spaces_around_operators = true
+
+trim_trailing_whitespace = true
+
+max_line_length = 160
